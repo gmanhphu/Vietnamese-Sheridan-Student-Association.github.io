@@ -3,7 +3,7 @@ defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
-replyByEmail = false
+replyByEmail = false 
 disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
@@ -29,7 +29,7 @@ showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = "yes"
 layoutBackgroundBlur = false
-homepageImage = "VSA 2025 - Official logos-11_hu_905e5ee5b5b78219.png"
+homepageImage = "./a.webp"
 
 [article]
 showDate = true

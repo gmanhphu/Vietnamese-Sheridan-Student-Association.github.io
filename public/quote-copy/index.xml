@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sheridan College VSA Club</title>
-    <link>//localhost:1313/quote/</link>
+    <link>//localhost:1313/quote-copy/</link>
     <description>Recent content on Sheridan College VSA Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Vietnamese Student Association</copyright>
-    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/quote/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/quote-copy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Second Post</title>
-      <link>//localhost:1313/quote/secondpost/</link>
+      <link>//localhost:1313/quote-copy/secondpost/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/quote/secondpost/</guid>
+      <guid>//localhost:1313/quote-copy/secondpost/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Test post for Manh Phu</title>
-      <link>//localhost:1313/quote/firstpost/</link>
+      <link>//localhost:1313/quote-copy/firstpost/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/quote/firstpost/</guid>
+      <guid>//localhost:1313/quote-copy/firstpost/</guid>
       <description></description>
       
     </item>

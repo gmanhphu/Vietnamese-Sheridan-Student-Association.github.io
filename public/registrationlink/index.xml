@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sheridan College VSA Club - Made In House Davis Campus</title>
-    <link>//localhost:60887/registrationlink/</link>
-    <description>Recent content on Sheridan College VSA Club - Made In House Davis Campus</description>
+    <title>Sheridan College VSA Club</title>
+    <link>//localhost:1313/registrationlink/</link>
+    <description>Recent content on Sheridan College VSA Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
-    <atom:link href="//localhost:60887/registrationlink/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Vietnamese Student Association</copyright>
+    <atom:link href="//localhost:1313/registrationlink/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

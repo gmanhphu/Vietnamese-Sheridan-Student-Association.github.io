@@ -1,7 +1,7 @@
 
 
 ---
-title: "Test post for Manh Phu"
+title: "Test post for blog part"
 date: 2023-10-18
 ---
 <img class="test" src="vsa.jpeg"/>

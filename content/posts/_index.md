@@ -1,10 +1,3 @@
-+++
-title = 'Archival Posts for Sheridan College Students'
-date = 2024-01-14T07:07:07+01:00
-draft = true
-+++
-## Introduction
+# Welcome to post Section of our Club
 
-Welcome to our collection of valuable resources! These posts are curated to benefit every student at Sheridan College, especially Vietnamese students.
-
-Explore and make the most out of these resources to enhance your learning experience.
+Welcome to our post archive, where we share inspiring stories, valuable insights, and motivational quotes to keep you driven throughout the year. Each post is crafted to provide you with the encouragement and knowledge you need to stay focused on your journey to success.
