@@ -1,0 +1,14 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Sheridan College VSA Club - Made In House Davis Campus"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "resources/_gen/images/a_hu_47e300fd27980708.webp"
+secondaryLogo = "resources/_gen/images/a_hu_47e300fd27980708.webp"
+description = "test 2"

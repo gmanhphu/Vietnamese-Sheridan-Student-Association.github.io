@@ -1,0 +1,26 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Posts"
+pre = "envelope"
+pageRef = "posts"
+identifier = "kVtGAPFlMv"
+weight = 2
+
+[[main]]
+name = "Registration Link"
+pre = "globe"
+pageRef = "registrationLink"
+identifier = "UflEr9kmG6"
+weight = 1
+
+[[main]]
+name = "Quote"
+pre = "globe"
+pageRef = "quote"
+weight = 3
+
+
+[[footer]]
+none = "none"
